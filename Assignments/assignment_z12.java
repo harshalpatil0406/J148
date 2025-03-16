@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Scanner;
 
 //check given number is prime or not
-public class assignment_12 {
+public class assignment_z12 {
     public static boolean isPrime(int num){
         for(int i = 2; i < num/2; ++i) {
             if (num % i == 0) {
