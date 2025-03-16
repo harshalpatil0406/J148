@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Scanner;
 
 //fibonacci series till n
-public class assignment_14 {
+public class assignment_z14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of n: ");
