@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Scanner;
 
 //check palindrom number
-public class assignment_13 {
+public class assignment_z13 {
     public static int reverseNumber(int number) {
         if (number < 0) {
             return -1;
