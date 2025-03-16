@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Scanner;
 
 //Armstrong Number
-public class assignment_17 {
+public class assignment_z17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner( System.in );
 
