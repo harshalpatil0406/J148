@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Scanner;
 
 //Calculate grades of student
-public class assignment_18 {
+public class assignment_z18 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter marks: ");
