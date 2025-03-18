@@ -1,7 +1,7 @@
 package Assignments;
 
 //Char array to String
-public class assignment_23 {
+public class assignment_z23 {
     public static void main(String[] args) {
         char[] charArray = {'H', 'e', 'l', 'l', 'o'};
 
