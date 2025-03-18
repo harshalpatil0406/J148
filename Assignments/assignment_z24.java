@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Scanner;
 
 //Add two Matrix
-public class assignment_24 {
+public class assignment_z24 {
     public static void main(String[] args) {
         int[][] m1 = {{1,1},{2,2}};
         int[][] m2 = {{2,2},{3,3}};
