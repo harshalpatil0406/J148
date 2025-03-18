@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class assignment_19 {
+public class assignment_z19 {
 
     static int factorial(int n) {
         return (n == 0) ? 1 : n * factorial(n - 1);
