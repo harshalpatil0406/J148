@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Arrays;
 
 //Sort Array in accending order
-public class assignment_22 {
+public class assignment_z22 {
     public static void main(String[] args) {
 
         int[] arr = {12,45,23,87,67,55};
