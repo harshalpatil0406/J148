@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Arrays;
 
 //Sort in alphabetical order
-public class assignment_25 {
+public class assignment_z25 {
     public static void main(String[] args) {
 
         String[] strings = {"banana", "apple", "cherry","aappe"};
