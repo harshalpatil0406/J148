@@ -4,7 +4,7 @@ import javax.script.ScriptEngine;
 import java.util.Scanner;
 
 //Find first Unique Character
-public class assignment_30 {
+public class assignment_z30 {
 
     public static char findFirstUniqueCharacter(String str) {
         int[] count = new int[256];
