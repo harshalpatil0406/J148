@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Scanner;
 
 // Remove Adjacent Duplicates from String
-public class assignment_29 {
+public class assignment_z29 {
 
     public static String removeAdjacentDuplicates(String str) {
         if (str.length() == 0) {
