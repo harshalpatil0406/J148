@@ -4,7 +4,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class assignment_28 {
+public class assignment_z28 {
     public static void main(String[] args) {
         Scanner sc = new Scanner( System.in );
         System.out.print("Enter the number : " );
