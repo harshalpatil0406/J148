@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Arrays;
 
 //concatenate two Arrays
-public class assignment_27 {
+public class assignment_z27 {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 3};
         int[] arr2 = {4, 5, 6};
