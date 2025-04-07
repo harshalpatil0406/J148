@@ -3,7 +3,7 @@ package Assignments;
 import java.util.Arrays;
 
 //second highest and highest element in Array
-public class assignment_26 {
+public class assignment_z26 {
     public static void main(String[] args) {
         int[] arr = {5,3,9,1,9,7,7};
         int highest = 0;
