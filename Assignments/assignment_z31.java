@@ -1,7 +1,7 @@
 package Assignments;
 
 //Check Anagram Strings
-public class assignment_31 {
+public class assignment_z31 {
 
     public static boolean isAnagram(String str1, String str2) {
 
