@@ -1,7 +1,7 @@
 package Assignments;
 
 //convert digits into characters
-public class assignment_32 {
+public class assignment_z32 {
 
     public static String replaceDigits(String str) {
         StringBuilder result = new StringBuilder();
